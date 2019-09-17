@@ -9,6 +9,7 @@ A list of technology companies that hire software developers, product designers,
 
 ## Design - UI, UX, Product Design
 - [Ideate Innovation](https://ideateinnovation.com/careers) | Islamabad, PB / Toronto, Canada | Pakistan's leading Human Centered and User Experience Design Firm
+- [KeepTruckin](https://keeptruckin.com/careers) | Islamabad, PB / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Plotree](https://plotree.studio/) | Lahore, PB| An Information Design Studio helping organizations communicate insights through interactive web based data visualizations
 
 ## Services 

@@ -3,6 +3,7 @@ A list of technology companies that hire software developers, product designers,
 
 
 ## Game Dev
+- [Caramel Tech Studios](http://carameltechstudios.com/careers.php) | Lahore | Caramel Tech Studios is a premier game development studio which started in 2011. Their company goal is to make the next-gen top performing mobile games
 - [Frag Games](http://frag-games.com/) | Lahore | A mobile gaming and art studio working on 3D social games that push the limits of fun and interaction!
 - [Mindstorm Studios](https://www.mindstormstudios.com/index.php/jobs/) | Lahore / San Francisco, USA | A high quality development studio focused on creating world-class gaming titles on mobile platforms
 
@@ -12,6 +13,7 @@ A list of technology companies that hire software developers, product designers,
 - [Ideate Innovation](https://ideateinnovation.com/careers) | Islamabad / Toronto, Canada | Pakistan's leading Human Centered and User Experience Design Firm
 - [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Plotree](https://plotree.studio/) | Lahore| An Information Design Studio helping organizations communicate insights through interactive web based data visualizations
+- [Tintash](https://www.tintash.com/careers) | Lahore | Tintash provides dedicated remote teams that work closely with clients to design and build digital products.
 - [Venturedive](https://www.venturedive.com/careers/) | Lahore, Karachi / Dubai, UAE
 
 

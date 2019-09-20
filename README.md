@@ -15,11 +15,14 @@ A list of technology companies that hire software developers, product designers,
 - [Plotree](https://plotree.studio/) | Lahore| An Information Design Studio helping organizations communicate insights through interactive web based data visualizations
 - [Tintash](https://www.tintash.com/careers) | Lahore | Tintash provides dedicated remote teams that work closely with clients to design and build digital products.
 - [Venturedive](https://www.venturedive.com/careers/) | Lahore, Karachi / Dubai, UAE
+- [Xavor](https://www.xavor.com/about/careers/) | Lahore | Xavor delivers quality custom technology solutions and consulting services for the semiconductor,
+high-tech, manufacturing, medical device and life sciences industries.
 
 
 ## Services
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.
-- [Arbisoft](https://hirestream.arbisoft.com/careers/) | Lahore, Pakistan / Texas, USA / Kuala Lumpur, Malaysia| Arbisoft builds powerful digital solutions and experiences with a world class team of engineers tackling problems in sectors such as education, healthcare and services. 
+- [Arbisoft](https://hirestream.arbisoft.com/careers/) | Lahore, Pakistan / Texas, USA / Kuala Lumpur, Malaysia| Arbisoft builds powerful digital solutions and experiences with a world class team of engineers tackling problems in sectors such as education, healthcare and services.
+- [Inbox Business Technologies] (https://www.inboxbiz.com/) | Islamabad | Inbox Business Technologies is the premier provider of digital services to businesses in Pakistan whose mission is “Providing Agility for the Digital Age”. 
 - [Netsol Technologies](http://careers.netsolpk.com/) | Lahore | Global leaders in providing IT solutions to the asset finance and leasing industry.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.
 - [Techlogix](https://www.techlogix.com/careers/) | Lahore, Islamabad, Karachi / Boston, USA / Dubai, UAE | A global IT Services, Consulting, and Business Solutions company helping clients achieve enterprise transformation by harmonizing people, business processes, and technology.
@@ -28,4 +31,6 @@ A list of technology companies that hire software developers, product designers,
 - [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
+- [Pakwheels](https://pakeventures.simplicant.com/) | Lahore | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
+- [Zameen.com] (https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 

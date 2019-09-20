@@ -20,8 +20,10 @@ high-tech, manufacturing, medical device and life sciences industries.
 
 
 ## Services
+- [Affiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.
 - [Arbisoft](https://hirestream.arbisoft.com/careers/) | Lahore, Pakistan / Texas, USA / Kuala Lumpur, Malaysia| Arbisoft builds powerful digital solutions and experiences with a world class team of engineers tackling problems in sectors such as education, healthcare and services.
+- [Ibex](https://www.ibex.co/pakistan/) | Karach, Lahore, Islamabad / Multiple Locations in US| Ibex helps Fortune 500 brands acquire, engage, and retain valuable customers through their CLX technology.
 - [Inbox Business Technologies](https://www.inboxbiz.com/) | Islamabad | Inbox Business Technologies is the premier provider of digital services to businesses in Pakistan whose mission is “Providing Agility for the Digital Age”. 
 - [Netsol Technologies](http://careers.netsolpk.com/) | Lahore | Global leaders in providing IT solutions to the asset finance and leasing industry.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.

@@ -31,6 +31,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
+- [Educative.io](https://www.educative.io/)| Lahore | Interactive courses for developers by developers.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 

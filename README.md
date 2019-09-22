@@ -1,6 +1,13 @@
 # Tech Companies in Pakistan
-A list of technology companies that hire software developers, product designers, data scientists and hardware engineers
+A list of technology companies that hire software developers, product designers, data scientists and hardware engineers. The repository is meant to act as a reference point for people with Computer Science or engineering background looking out for new jobs in the market. 
 
+### Interview Style
+The current list is a generalized one and the goal is to understand the style of interview each company adopts in gauging potential new hires. 
+
+### How to Contribute
+If you have gone through an interview with a technology company which is not mentioned here, please open a PR to request adding a particular company.
+
+---
 
 ## Game Dev
 - [Caramel Tech Studios](http://carameltechstudios.com/careers.php) | Lahore | Caramel Tech Studios is a premier game development studio which started in 2011. Their company goal is to make the next-gen top performing mobile games

@@ -1,11 +1,16 @@
 # Tech Companies in Pakistan
-A list of technology companies that hire software developers, product designers, data scientists and hardware engineers. The repository is meant to act as a reference point for people with Computer Science or engineering background looking out for new jobs in the market. 
+A list of technological companies that hire software developers, product designers, data scientists and hardware engineers. This github repository is meant to act as a reference point for undergraduates, graduates and professionals with some level of Computer Science or engineering background looking out for jobs in the market. 
 
-### Interview Style
-The current list is a generalized one and the goal is to understand the style of interview each company adopts in gauging potential new hires. 
+The reason for taking the initiative is two fold
+1) Lack of awareness of existing companies that may be great places to work, and are ofcourse hiring.
+2) There is a big recession of technical jobs 
 
 ### How to Contribute
 If you have gone through an interview with a technology company which is not mentioned here, please open a PR to request adding a particular company.
+
+### Resources for interviews
+-- [Cracking the coding Interview](http://www.crackingthecodinginterview.com/)
+-- [Solving Product Design Interviews](https://productdesigninterview.com/)
 
 ---
 

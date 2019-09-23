@@ -6,7 +6,7 @@ The reason for taking the initiative is two fold
 2) There is a big recession of jobs for fresh graduates. 
 
 ### How to Contribute
-If you have gone through an interview with a technology company which is not mentioned here, please open a PR to request adding a particular company and we'll add it accordingly. 
+If you have gone through an interview with a technology company which is not mentioned here, please open a [PR](https://github.com/hamza121star/tech-companies-in-pakistan/pulls) to request adding a particular company and we'll add it accordingly. 
 
 ### Resources for interviews
 

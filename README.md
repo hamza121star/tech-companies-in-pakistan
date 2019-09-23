@@ -22,6 +22,7 @@ If you have gone through an interview with a technology company which is not men
 - [Mindstorm Studios](https://www.mindstormstudios.com/index.php/jobs/) | Lahore / San Francisco, USA | A high quality development studio focused on creating world-class gaming titles on mobile platforms
 
 
+
 ## Design - UI, UX, Product Design
 - [Bramerz](https://bramerz.pk/careers/) | Lahore | Full Service Digital Agency creating powerful footprints online for brands.
 - [Broadpeak Technologies](http://broadpeak.com) | Islamabad /Atlanta | BroadPeak Technologies is a leading technology company which specializes in delivering web, mobile & desktop related applications
@@ -40,6 +41,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 ## Services
 - [Affiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [Alhazen](http://alhazentech.com) | Islamabad | Alhazen Technologies (Pvt) Ltd. is an information technology services company providing custom software development, IT consulting and application outsourcing services.
+- [AppsGenii](https://www.appsgenii.com/about-us/careers/) | Lahore | AppsGenii Technologies enable clients to out perform the competition and stay ahead of the innovation curve.
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.
 - [Arbisoft](https://hirestream.arbisoft.com/careers/) | Lahore, Pakistan / Texas, USA / Kuala Lumpur, Malaysia| Arbisoft builds powerful digital solutions and experiences with a world class team of engineers tackling problems in sectors such as education, healthcare and services.
 - [Bentley Systems](https://www.bentley.com/en) | Islamabad / Multiple Locations | Bentley is the global leader dedicated to providing architects, engineers, constructors, and owner-operators with comprehensive architecture and engineering software solutions for sustaining infrastructure. 

@@ -33,7 +33,7 @@ If you have gone through an interview with a technology company which is not men
 - [Qbxnet](http://www.qbxnet.com) | Lahore / Barcelona, Spain | Qbxnet build complex and fully integrated applications for the newest technologies including web, mobile, wearables, augmented and virtual reality.
 - [Revnosoft](https://www.revnosoft.com) | Rawalpindi |RevnoSoft is a full-service web, tablet and mobile application development company with a wide-ranging set of technology capabilities to deliver your business needs. 
 - [Tintash](https://www.tintash.com/careers) | Lahore | Tintash provides dedicated remote teams that work closely with clients to design and build digital products.
-- [Venturedive](https://www.venturedive.com/careers/) | Lahore, Karachi / Dubai, UAE
+- [Venturedive](https://www.venturedive.com/careers/) | Lahore, Karachi / Dubai, UAE | VentureDive is a technology solutions company that creates & invests in high-end technology products & solutions that improve lives worldwide.
 - [Xavor](https://www.xavor.com/about/careers/) | Lahore | Xavor delivers quality custom technology solutions and consulting services for the semiconductor,
 high-tech, manufacturing, medical device and life sciences industries.
 

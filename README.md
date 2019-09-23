@@ -3,14 +3,16 @@ A list of technological companies that hire software developers, product designe
 
 The reason for taking the initiative is two fold
 1) Lack of awareness of existing companies that may be great places to work, and are ofcourse hiring.
-2) There is a big recession of technical jobs 
+2) There is a big recession of jobs for fresh graduates. 
 
 ### How to Contribute
-If you have gone through an interview with a technology company which is not mentioned here, please open a PR to request adding a particular company.
+If you have gone through an interview with a technology company which is not mentioned here, please open a PR to request adding a particular company and we'll add it accordingly. 
 
 ### Resources for interviews
--- [Cracking the coding Interview](http://www.crackingthecodinginterview.com/)
--- [Solving Product Design Interviews](https://productdesigninterview.com/)
+
+- [Cracking the coding Interview](http://www.crackingthecodinginterview.com/) - According to 
+- [Leetcode] - Once you've cracked the 189 questions from CTCI, Leetcode is the next useful resource where you can solve coding questions ranging from easy difficulty to hard. You can definitely aim to polish You should definitely start
+- [Solving Product Design Interviews](https://productdesigninterview.com/) - This book is considered among the best ones to crack the product design interview 
 
 ---
 

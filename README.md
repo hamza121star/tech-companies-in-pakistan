@@ -10,9 +10,9 @@ If you have gone through an interview with a technology company which is not men
 
 ### Resources for interviews
 
-- [Cracking the coding Interview](http://www.crackingthecodinginterview.com/) - According to 
-- [Leetcode] - Once you've cracked the 189 questions from CTCI, Leetcode is the next useful resource where you can solve coding questions ranging from easy difficulty to hard. You can definitely aim to polish You should definitely start
-- [Solving Product Design Interviews](https://productdesigninterview.com/) - This book is considered among the best ones to crack the product design interview 
+- [Cracking the coding Interview](http://www.crackingthecodinginterview.com/) - Considered the #1 book for preparing for any coding interview. A gem of a book for any software engineer who intend to solve frequently asked questions in interviews, or seeking to brush up their data structure concept.
+- [Leetcode](https://leetcode.com/) - Once you've cracked the 189 questions from CTCI, Leetcode is the next useful resource where you can solve coding questions ranging from easy difficulty to hard. You can definitely aim to polish You should definitely start
+- [Solving Product Design Interviews](https://productdesigninterview.com/) - This book is considered among the best ones to crack the product design interview.
 
 ---
 

@@ -44,7 +44,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 
 
 ## Services
-- [Affiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
+- [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [Alhazen](http://alhazentech.com) | Islamabad | Alhazen Technologies (Pvt) Ltd. is an information technology services company providing custom software development, IT consulting and application outsourcing services.
 - [AppsGenii](https://www.appsgenii.com/about-us/careers/) | Lahore | AppsGenii Technologies enable clients to out perform the competition and stay ahead of the innovation curve.
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.

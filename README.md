@@ -10,9 +10,14 @@ If you have gone through an interview with a technology company which is not men
 
 ### Resources for interviews
 
+#### For coding interviews
 - [Cracking the coding Interview](http://www.crackingthecodinginterview.com/) - Considered the #1 book for preparing for any coding interview. A gem of a book for any software engineer who intend to solve frequently asked questions in interviews, or seeking to brush up their data structure concept.
-- [Leetcode](https://leetcode.com/) - Once you've cracked the 189 questions from CTCI, Leetcode is the next useful resource where you can solve coding questions ranging from easy difficulty to hard. You can definitely aim to polish You should definitely start
+- [Leetcode](https://leetcode.com/) - Once you've cracked the 189 questions from CTCI, Leetcode is the next useful resource where you can solve coding questions ranging from easy difficulty to hard. You can definitely aim to polish your coding skills with this tool and get the upper edge in technical interviews.
+
+#### For UX, Product Design & web/mobile accessibility
 - [Solving Product Design Interviews](https://productdesigninterview.com/) - This book is considered among the best ones to crack the product design interview.
+- [The Design of Everyday Things] (http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - If you're seriously interested in the Human-Computer Interaction domain, this is the book to start your journey into this space. The book is a good mix of theoretical and practical ideas which the author eloquently explains. 
+- [Don't Make Me Think] (http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf) - A concisely written book that touches upon key concepts of usability, device accessibility and interaction design without going very deep. 
 
 ---
 

@@ -51,7 +51,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 
-## Data Science - AI, Machine Learning, Quantitative Research, data visualization
+## Data Science - AI, Machine Learning, Quantitative Research, Data Visualization
 - [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [CERP](https://cerp.org.pk/pages/careers) | Lahore | An independent nonpartisan policy institution focused on generating new knowledge, disseminating it to improve public discourse, and carrying out empirical research in Pakistan.
 - [TeraData](https://careers.teradata.com/index.gp?method=cappportal.showCategory&categoryId=1) | Islamabad, Lahore / Multiple Locations | Teradata transforms how businesses work and people live through the power of data.

@@ -55,6 +55,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 ## Data Science - AI, Machine Learning, Quantitative Research, Data Visualization
 - [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [CERP](https://cerp.org.pk/pages/careers) | Lahore | An independent nonpartisan policy institution focused on generating new knowledge, disseminating it to improve public discourse, and carrying out empirical research in Pakistan.
+- [Daraz.pk](https://careers.daraz.com/jobs/index.html) | Karachi / Colombo, Sri Lanka / Multiple Locations | South Asia's Biggest Online Marketplace.
 - [TeraData](https://careers.teradata.com/index.gp?method=cappportal.showCategory&categoryId=1) | Islamabad, Lahore / Multiple Locations | Teradata transforms how businesses work and people live through the power of data.
 
 ## Services

@@ -25,7 +25,7 @@ If you have gone through an interview with a technology company which is not men
 - [Caramel Tech Studios](http://carameltechstudios.com/careers.php) | Lahore | Caramel Tech Studios is a premier game development studio which started in 2011. Their company goal is to make the next-gen top performing mobile games
 - [Frag Games](http://frag-games.com/) | Lahore | A mobile gaming and art studio working on 3D social games that push the limits of fun and interaction!
 - [Mindstorm Studios](https://www.mindstormstudios.com/index.php/jobs/) | Lahore / San Francisco, USA | A high quality development studio focused on creating world-class gaming titles on mobile platforms
-
+- [Nitroxis Studio](https://nitroxis.com/) | Lahore | Nitroxis is an app and game studio that make Mobile Games, Video Games, Mobile, Web and Desktop Applications & Enterprise Solutions
 
 
 ## Design - UI, UX, Product Design

@@ -1,9 +1,9 @@
 # Tech Companies in Pakistan
-A list of technological companies that hire software developers, product designers, data scientists and hardware engineers. This github repository is meant to act as a reference point for undergraduates, graduates and professionals with some level of Computer Science or engineering background looking out for jobs in the market. 
+A list of technological companies that hire software developers, product designers, data scientists and hardware engineers. This github repository is meant to act as a reference point for undergraduates, graduates and professionals with some level of Computer Science, or engineering background looking out for opportunities in the technology space.
 
 The reason for taking the initiative is two fold
 1) Lack of awareness of existing companies that may be great places to work, and are ofcourse hiring.
-2) There is a big recession of jobs for fresh graduates. 
+2) There is a big recession of jobs for fresh graduates.
 
 ### How to Contribute
 If you have gone through an interview with a technology company which is not mentioned here, please open a [PR](https://github.com/hamza121star/tech-companies-in-pakistan/pulls) to request adding a particular company and we'll add it accordingly. 
@@ -62,4 +62,8 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
+
+## Telecommunication-based companies
+- [Jazz](https://www.linkedin.com/company/mobilinkgsm/) | Lahore, Islamabad | Jazz is Pakistan’s leading telecom service provider, spearheading service excellence and product innovation in the country
+- [Telenor](https://www.telenor.com/career/vacant-positions/) | Islamabad, Gujranwala | Telenor Group is an international provider of tele, data and media communication services.
 

@@ -49,6 +49,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
+- [Shahi Sawari](https://shahisawari.pk/) | Lahore | Monthly pick and drop services on cars, rickshaws and vans made affordable with sharing.
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 
 ## Data Science - AI, Machine Learning, Quantitative Research, Data Visualization

@@ -42,9 +42,21 @@ If you have gone through an interview with a technology company which is not men
 - [Xavor](https://www.xavor.com/about/careers/) | Lahore | Xavor delivers quality custom technology solutions and consulting services for the semiconductor,
 high-tech, manufacturing, medical device and life sciences industries.
 
+## Product-based companies
+- [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
+- [Careem](https://www.careem.com/en-pk/careers/) | Lahore / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
+- [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
+- [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
+- [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
+- [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
+- [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
+
+## Data Science - AI, Machine Learning, Quantitative Research, data visualization
+- [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
+- [CERP](https://cerp.org.pk/pages/careers) | Lahore | An independent nonpartisan policy institution focused on generating new knowledge, disseminating it to improve public discourse, and carrying out empirical research in Pakistan.
+- [TeraData](https://careers.teradata.com/index.gp?method=cappportal.showCategory&categoryId=1) | Islamabad, Lahore / Multiple Locations | Teradata transforms how businesses work and people live through the power of data.
 
 ## Services
-- [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [Alhazen](http://alhazentech.com) | Islamabad | Alhazen Technologies (Pvt) Ltd. is an information technology services company providing custom software development, IT consulting and application outsourcing services.
 - [AppsGenii](https://www.appsgenii.com/about-us/careers/) | Lahore | AppsGenii Technologies enable clients to out perform the competition and stay ahead of the innovation curve.
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.
@@ -58,15 +70,6 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [NextBridge](http://www.nextbridge.pk) | Lahore, Islamabad, Multan | NextBridge specialize in innovative full lifecycle Software Development, Solutions and Consultancy services.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.
 - [Techlogix](https://www.techlogix.com/careers/) | Lahore, Islamabad, Karachi / Boston, USA / Dubai, UAE | A global IT Services, Consulting, and Business Solutions company helping clients achieve enterprise transformation by harmonizing people, business processes, and technology.
-
-## Product-based companies
-- [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
-- [Careem](https://www.careem.com/en-pk/careers/) | Lahore / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
-- [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
-- [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
-- [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
-- [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
-- [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 
 ## Telecommunication-based companies
 - [Jazz](https://www.linkedin.com/company/mobilinkgsm/) | Lahore, Islamabad | Jazz is Pakistan’s leading telecom service provider, spearheading service excellence and product innovation in the country

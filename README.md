@@ -16,8 +16,8 @@ If you have gone through an interview with a technology company which is not men
 
 #### For UX, Product Design & web/mobile accessibility
 - [Solving Product Design Interviews](https://productdesigninterview.com/) - This book is considered among the best ones to crack the product design interview.
-- [The Design of Everyday Things] (http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - If you're seriously interested in the Human-Computer Interaction domain, this is the book to start your journey into this space. The book is a good mix of theoretical and practical ideas which the author eloquently explains. 
-- [Don't Make Me Think] (http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf) - A concisely written book that touches upon key concepts of usability, device accessibility and interaction design without going very deep. 
+- [The Design of Everyday Things](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - If you're seriously interested in the Human-Computer Interaction domain, this is the book to start your journey into this space. The book is a good mix of theoretical and practical ideas which the author eloquently explains. 
+- [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf) - A concisely written book that touches upon key concepts of usability, device accessibility and interaction design without going very deep. 
 
 ---
 

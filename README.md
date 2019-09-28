@@ -47,6 +47,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
+- [Hazen.ai](http://hazen.ai/#contact) | Lahore | Hazen.ai is building advanced traffic cameras with the capability to detect dangerous driving behavior through video analysis.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
 - [Shahi Sawari](https://shahisawari.pk/views/careers.html) | Lahore | Monthly pick and drop services on cars, rickshaws and vans made affordable with sharing.
@@ -56,6 +57,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [CERP](https://cerp.org.pk/pages/careers) | Lahore | An independent nonpartisan policy institution focused on generating new knowledge, disseminating it to improve public discourse, and carrying out empirical research in Pakistan.
 - [Daraz.pk](https://careers.daraz.com/jobs/index.html) | Karachi / Colombo, Sri Lanka / Multiple Locations | South Asia's Biggest Online Marketplace.
+- [NorthBay Solutions](https://northbaysolutions.com/about-us/job-openings-lahore/) | Lahore / Andover, MA | Northbay is a premier AWS advanced consulting partner certified in database & application migrations, data lakes and analytics, machine learning/Ai, DevOps and application modernization/development. 
 - [TeraData](https://careers.teradata.com/index.gp?method=cappportal.showCategory&categoryId=1) | Islamabad, Lahore / Multiple Locations | Teradata transforms how businesses work and people live through the power of data.
 
 ## Services

@@ -43,7 +43,9 @@ If you have gone through an interview with a technology company which is not men
 high-tech, manufacturing, medical device and life sciences industries.
 
 ## Product-based companies
+- [7Vals](http://jobs.7vals.com) | Lahore | 7Vals is leading software product company creating business solutions for the global market.
 - [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
+- [Careaxiom](https://careaxiom.com/careers/) | Lahore | CareAxiom offers a cloud-based care coordination platform that keeps the entire care team informed and cohesive through an intuitive interface that enables real-time staff interaction, provides families with peace of mind and improves overall senior wellness.
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
@@ -65,7 +67,10 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [AppsGenii](https://www.appsgenii.com/about-us/careers/) | Lahore | AppsGenii Technologies enable clients to out perform the competition and stay ahead of the innovation curve.
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.
 - [Arbisoft](https://hirestream.arbisoft.com/careers/) | Lahore, Pakistan / Texas, USA / Kuala Lumpur, Malaysia| Arbisoft builds powerful digital solutions and experiences with a world class team of engineers tackling problems in sectors such as education, healthcare and services.
-- [Bentley Systems](https://www.bentley.com/en) | Islamabad / Multiple Locations | Bentley is the global leader dedicated to providing architects, engineers, constructors, and owner-operators with comprehensive architecture and engineering software solutions for sustaining infrastructure. 
+- [Bentley Systems](https://www.bentley.com/en) | Islamabad / Multiple Locations | Bentley is the global leader dedicated to providing architects, engineers, constructors, and owner-operators with comprehensive architecture and engineering software solutions for sustaining infrastructure.
+- [Confiz](https://confiz.simplicant.com) | Lahore | Confiz is a full service technology company with a proven track record of producing high performance industry solutions and applications.
+- [Conrad Labs](https://www.conradlabs.com) | Lahore / Texas, USA | Conrad Labs provide purpose-built, high-caliber, product-focused engineering teams for startups.
+- [Contour Software](http://contour-software.com/careers/) | Karachi / Lahore / Islamabad / Markham, Canada | A subsidiary of Constellation Software which provides market-leading software and services to a number of industries, both in the public and private sectors. 
 - [FiveRivers](https://www.fiveriverstech.com) | Lahore | FiveRivers has been at the cutting edge of technology since 2003, pioneering Virtualization and Systems Management technology for Enterprise and Embedded systems, developing globally top ranked mobile applications downloaded tens of millions of times and winning international awards for our work.
 - [Ibex](https://www.ibex.co/pakistan/) | Karach, Lahore, Islamabad / Multiple Locations in US| Ibex helps Fortune 500 brands acquire, engage, and retain valuable customers through their CLX technology.
 - [IBM](https://www.ibm.com/pk-en) | Karachi, Lahore, Islamabad / Multiple Locations| IBM is a global technology and innovation company headquartered in Armonk, NY. It is the largest technology and consulting employer in the world, with more than 375,000 employees serving clients in 170 countries. 

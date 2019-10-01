@@ -30,7 +30,7 @@ If you have gone through an interview with a technology company which is not men
 
 ## Design - UI, UX, Product Design
 - [Bramerz](https://bramerz.pk/careers/) | Lahore | Full Service Digital Agency creating powerful footprints online for brands.
-- [Broadpeak Technologies](http://broadpeak.com) | Islamabad /Atlanta | BroadPeak Technologies is a leading technology company which specializes in delivering web, mobile & desktop related applications
+- [Broadpeak Technologies](http://broadpeak.com) | Islamabad / Atlanta, USA | BroadPeak Technologies is a leading technology company which specializes in delivering web, mobile & desktop related applications
 - [Codistan](http://www.codistan.org) | Islamabad | Codistan is a hub for young enthusiasts excelling in the fields of Application and Web development, Social and Digital Media Marketing
 - [Ideate Innovation](https://ideateinnovation.com/careers) | Islamabad / Toronto, Canada | Pakistan's leading Human Centered and User Experience Design Firm
 - [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.

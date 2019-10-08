@@ -49,6 +49,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore, Karachi / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
+- [GharPar](https://www.linkedin.com/company/gharpar/) | Lahore | GharPar is the leading tech-enabled at-home beauty service provider in Lahore, Islamabad and Rawalpindi aiming to disrupt the beauty industry of Pakistan.
 - [Hazen.ai](http://hazen.ai/#contact) | Lahore | Hazen.ai is building advanced traffic cameras with the capability to detect dangerous driving behavior through video analysis.
 - [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.

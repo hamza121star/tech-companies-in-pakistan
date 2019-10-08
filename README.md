@@ -82,6 +82,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [NextBridge](http://www.nextbridge.pk) | Lahore, Islamabad, Multan | NextBridge specialize in innovative full lifecycle Software Development, Solutions and Consultancy services.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.
 - [Techlogix](https://www.techlogix.com/careers/) | Lahore, Islamabad, Karachi / Boston, USA / Dubai, UAE | A global IT Services, Consulting, and Business Solutions company helping clients achieve enterprise transformation by harmonizing people, business processes, and technology.
+- [Zeropoint.IT](https://zeropoint.hr/) | Islamabad, Pakistan / Leopoldsburg, Belgium / Nugegoda, Sri Lanka | We match strategic IT needs with dedicated remote teams.
 
 ## Telecommunication-based companies
 - [Jazz](https://www.linkedin.com/company/mobilinkgsm/) | Lahore, Islamabad | Jazz is Pakistan’s leading telecom service provider, spearheading service excellence and product innovation in the country

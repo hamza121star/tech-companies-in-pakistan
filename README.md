@@ -51,6 +51,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
 - [GharPar](https://www.linkedin.com/company/gharpar/) | Lahore | GharPar is the leading tech-enabled at-home beauty service provider in Lahore, Islamabad and Rawalpindi aiming to disrupt the beauty industry of Pakistan.
 - [Hazen.ai](http://hazen.ai/#contact) | Lahore | Hazen.ai is building advanced traffic cameras with the capability to detect dangerous driving behavior through video analysis.
+- [Khareed](https://khareed.pk/careers) | Lahore, Karachi | Khareed is an Enterprise, cloud-based e-procurement software that leverages AI to automate business purchases
 - [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan

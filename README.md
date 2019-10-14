@@ -55,6 +55,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
+- [Sastaticket.pk](https://www.sastaticket.pk/corporate/jobs.aspx) | Karachi | Sastaticket.pk is a one-stop shop for all travel related services. A leading consolidator of travel products, Sastaticket.pk provides reservation facility for domestic and international flights, domestic and international hotels, and holiday packages.
 - [Shahi Sawari](https://shahisawari.pk/views/careers.html) | Lahore | Monthly pick and drop services on cars, rickshaws and vans made affordable with sharing.
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 
@@ -75,6 +76,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Conrad Labs](https://www.conradlabs.com) | Lahore / Texas, USA | Conrad Labs provide purpose-built, high-caliber, product-focused engineering teams for startups.
 - [Contour Software](http://contour-software.com/careers/) | Karachi / Lahore / Islamabad / Markham, Canada | A subsidiary of Constellation Software which provides market-leading software and services to a number of industries, both in the public and private sectors. 
 - [FiveRivers](https://www.fiveriverstech.com) | Lahore | FiveRivers has been at the cutting edge of technology since 2003, pioneering Virtualization and Systems Management technology for Enterprise and Embedded systems, developing globally top ranked mobile applications downloaded tens of millions of times and winning international awards for our work.
+- [Gaditek](https://careers.gaditek.com/) | Karachi / UAE / Spain / Malta | Gaditek is a new-age tech-company. They are employee-centric company which focuses on providing fulfilling careers to over 550 Gaditians that help them serve millions of customers in 7 different industries.
 - [GFK Etilize](https://www.etilize.com/) | Karachi, Nürnberg (Germany) | Gfk provides standardized, eCommerce ready product data catalogs containing millions of products representing thousands of brands with clients including Amazon, Walmart, Acer, D&H etc
 - [GoodCore Software](https://www.goodcoresoft.com) | Karachi, Malaysia, United Kingdom | GoodCore Software helps small businesses and start-ups develop robust, commercial-grade software applications.
 - [Ibex](https://www.ibex.co/pakistan/) | Karach, Lahore, Islamabad / Multiple Locations in US| Ibex helps Fortune 500 brands acquire, engage, and retain valuable customers through their CLX technology.

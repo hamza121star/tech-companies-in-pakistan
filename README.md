@@ -89,4 +89,5 @@ high-tech, manufacturing, medical device and life sciences industries.
 ## Telecommunication-based companies
 - [Jazz](https://www.linkedin.com/company/mobilinkgsm/) | Lahore, Islamabad | Jazz is Pakistan’s leading telecom service provider, spearheading service excellence and product innovation in the country
 - [Telenor](https://www.telenor.com/career/vacant-positions/) | Islamabad, Gujranwala | Telenor Group is an international provider of tele, data and media communication services.
+- [Zong](https://www.zong.com.pk/careers) | Islamabad | Zong 4G, is Pakistan's leading mobile data network operator owned by Chinese government-owned company China Mobile.
 

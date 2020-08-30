@@ -1,3 +1,4 @@
+![Posterbanner](Github Profile.png)
 
 # 👨‍💻 Tech Companies in Pakistan 👩‍💻
 A list of technology companies that hire software developers, product designers, data scientists and hardware engineers. This github repository is meant to act as a reference point for undergraduates, graduates and professionals with some level of Computer Science, or engineering background looking out for opportunities in the technology space.

@@ -1,5 +1,5 @@
 
-![Posterbanner](Tech%20Pakistan%20Banner.png)
+![Posterbanner](Github%20Social.png)
 
 
 # 👨‍💻 Tech Companies in Pakistan 👩‍💻

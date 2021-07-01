@@ -26,11 +26,13 @@ If you have gone through an interview with a technology company which is not men
 
 ---
 
-## New Generation Startup
+## New Generation Startups
 - [Bazaar](https://www.bazaar-tech.com/careers) | Karachi, Lahore | Bazaar's online marketplace connects retailers directly to wholesalers and manufacturers, unlocking efficiencies across the value chain through technology.
 - [Tajir.pk](https://www.tajir.app/sellers) | Lahore | Tajir lets you buy inventory from a single source with next-day delivery. Reach stores through Pakistan’s largest online retail network.
 - [Sadapay.pk](https://sadapay.pk/careers/) | Islamabad, Lahore, Karachi / Dubai, UAE | SadaPay is a safe and smart online money management platform that is created to ease the domestic and international payment processes in Pakistan.
 - [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
+- [Truck It In](https://truckitin.com/careers/) | Truck It In is a tech startup solving inefficiencies for the $25 B+ road freight market by digitizing trucking and logistics for 3 Million+ businesses in Pakistan.
+- [Remotebase](https://apply.workable.com/remotebase/) | Lahore / Remote | Remotebase finds, hires and trains the top 3% tech talent in the world, so you don’t have to. Your team is all set up and ready for you on day 1.
 
 
 ## Game Dev

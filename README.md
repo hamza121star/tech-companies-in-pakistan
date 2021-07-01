@@ -26,6 +26,13 @@ If you have gone through an interview with a technology company which is not men
 
 ---
 
+## New Generation Startup
+- [Bazaar](https://www.bazaar-tech.com/careers) | Karachi, Lahore | Bazaar's online marketplace connects retailers directly to wholesalers and manufacturers, unlocking efficiencies across the value chain through technology.
+- [Tajir.pk](https://www.tajir.app/sellers) | Lahore | Tajir lets you buy inventory from a single source with next-day delivery. Reach stores through Pakistan’s largest online retail network.
+- [Sadapay.pk](https://sadapay.pk/careers/) | Islamabad, Lahore, Karachi / Dubai, UAE | SadaPay is a safe and smart online money management platform that is created to ease the domestic and international payment processes in Pakistan.
+- [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
+
+
 ## Game Dev
 - [Caramel Tech Studios](http://carameltechstudios.com/careers.php) | Lahore | Caramel Tech Studios is a premier game development studio which started in 2011. Their company goal is to make the next-gen top performing mobile games
 - [Frag Games](http://frag-games.com/) | Lahore | A mobile gaming and art studio working on 3D social games that push the limits of fun and interaction!
@@ -34,29 +41,28 @@ If you have gone through an interview with a technology company which is not men
 
 
 ## Design - UI, UX, Product Design
+- [Venturedive](https://www.venturedive.com/careers/) | Lahore, Karachi / Dubai, UAE | VentureDive is a technology solutions company that creates & invests in high-end technology products & solutions that improve lives worldwide.
 - [Bramerz](https://bramerz.pk/careers/) | Lahore | Full Service Digital Agency creating powerful footprints online for brands.
 - [Broadpeak Technologies](http://broadpeak.com) | Islamabad / Atlanta, USA | BroadPeak Technologies is a leading technology company which specializes in delivering web, mobile & desktop related applications
 - [Codistan](http://www.codistan.org) | Islamabad | Codistan is a hub for young enthusiasts excelling in the fields of Application and Web development, Social and Digital Media Marketing
-- [Face44](https://face44.com) | Islamabad, Paksitan / Leuven, Belgium / Vejle, Denmark | Internationally recognized and award-winning Digital Support Agency focused on Product Design, Branding, Web and high-end Web Development Support. Known for aesthetics and trend-setting culture.
+- [Face44](https://face44.com) | Islamabad, Pakistan / Leuven, Belgium / Vejle, Denmark | Internationally recognized and award-winning Digital Support Agency focused on Product Design, Branding, Web and high-end Web Development Support. Known for aesthetics and trend-setting culture.
 - [Ideate Innovation](https://ideateinnovation.com/careers) | Islamabad / Toronto, Canada | Pakistan's leading Human Centered and User Experience Design Firm
 - [Plotree](https://plotree.studio/) | Lahore | An Information Design Studio helping organizations communicate insights through interactive web based data visualizations
 - [Qbxnet](http://www.qbxnet.com) | Lahore / Barcelona, Spain | Qbxnet build complex and fully integrated applications for the newest technologies including web, mobile, wearables, augmented and virtual reality.
 - [Revnosoft](https://www.revnosoft.com) | Rawalpindi |RevnoSoft is a full-service web, tablet and mobile application development company with a wide-ranging set of technology capabilities to deliver your business needs. 
 - [Tintash](https://www.tintash.com/careers) | Lahore | Tintash provides dedicated remote teams that work closely with clients to design and build digital products.
-- [Venturedive](https://www.venturedive.com/careers/) | Lahore, Karachi / Dubai, UAE | VentureDive is a technology solutions company that creates & invests in high-end technology products & solutions that improve lives worldwide.
 - [Xavor](https://www.xavor.com/about/careers/) | Lahore | Xavor delivers quality custom technology solutions and consulting services for the semiconductor,
 high-tech, manufacturing, medical device and life sciences industries.
 
 ## Product-based companies
+- [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [7Vals](http://jobs.7vals.com) | Lahore | 7Vals is leading software product company creating business solutions for the global market.
-- [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
 - [Careaxiom](https://careaxiom.com/careers/) | Lahore | CareAxiom offers a cloud-based care coordination platform that keeps the entire care team informed and cohesive through an intuitive interface that enables real-time staff interaction, provides families with peace of mind and improves overall senior wellness.
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore, Karachi / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
 - [Hazen.ai](http://hazen.ai/#contact) | Lahore | Hazen.ai is building advanced traffic cameras with the capability to detect dangerous driving behavior through video analysis.
 - [Khareed](https://khareed.pk/careers) | Lahore, Karachi | Khareed is an Enterprise, cloud-based e-procurement software that leverages AI to automate business purchases
-- [KeepTruckin](https://keeptruckin.com/careers) | Islamabad / San Francisco, USA | Connecting trucks with the leading fleet management platform—evolving how freight is moved on our roads.
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
 - [Sastaticket.pk](https://www.sastaticket.pk/corporate/jobs.aspx) | Karachi | Sastaticket.pk is a one-stop shop for all travel related services. A leading consolidator of travel products, Sastaticket.pk provides reservation facility for domestic and international flights, domestic and international hotels, and holiday packages.

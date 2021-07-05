@@ -71,6 +71,9 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Shahi Sawari](https://shahisawari.pk/views/careers.html) | Lahore | Monthly pick and drop services on cars, rickshaws and vans made affordable with sharing.
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
 
+## Banking Solutions
+- [Avanza Solutions](https://www.avanzasolutions.com/careers/) | Karachi, Lahore, Pakistan; Dubai, UAE / Multiple locations | Avanza Solutions is a global software solutions provider specializing in e-Business and e-Banking solutions, Enterprise Application Services, Infrastructure Management, and Quality Services.
+
 ## Data Science - AI, Machine Learning, Quantitative Research, Data Visualization
 - [Afiniti](https://www.afiniti.com/careers) | Lahore, Karachi, Islamabad / New York, Washington, Minneapolis (USA) / Multiple Locations | Afiniti transforms the way humans interact by applying artificial intelligence to discover, predict and affect patterns of interpersonal behavior.
 - [CERP](https://cerp.org.pk/pages/careers) | Lahore | An independent nonpartisan policy institution focused on generating new knowledge, disseminating it to improve public discourse, and carrying out empirical research in Pakistan.
@@ -102,9 +105,13 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.
 - [Techlogix](https://www.techlogix.com/careers/) | Lahore, Islamabad, Karachi / Boston, USA / Dubai, UAE | A global IT Services, Consulting, and Business Solutions company helping clients achieve enterprise transformation by harmonizing people, business processes, and technology.
 - [Zeropoint.IT](https://zeropoint.hr/) | Islamabad, Pakistan / Leopoldsburg, Belgium / Nugegoda, Sri Lanka | We match strategic IT needs with dedicated remote teams.
+- [Grappetite](https://grappetite.com/) | Karachi, Pakistan; Florida, USA | Grappetite was founded in 2011 by Gerjtan Van Laar and is currently led by Andy Larkin. They make iPhone, Android, Windows Phone, iPad and web apps with a mixed Asian and Western team to offer affordable rates and a high standard of quality, communication and planning.
+- [NexDegree](https://nexdegree.com/careers/) | Karachi, Pakistan | NexDegree provides a full suite of digital & data services.
+- [Next Generation Innovations](https://www.nextgeni.com/apply/) | Karachi, Pakistan; Dubai, UAE; London, UK | NexDegree takes care of the Technology Product's supply chain - starting with incubation and ending with acquisition/exit with mentoring, product strategy and software development baked into our process through 65+ engagements across 9 years. 
 
 ## Telecommunication-based companies
 - [Jazz](https://www.linkedin.com/company/mobilinkgsm/) | Lahore, Islamabad | Jazz is Pakistan’s leading telecom service provider, spearheading service excellence and product innovation in the country
 - [Telenor](https://www.telenor.com/career/vacant-positions/) | Islamabad, Gujranwala | Telenor Group is an international provider of tele, data and media communication services.
 - [Zong](https://www.zong.com.pk/careers) | Islamabad | Zong 4G, is Pakistan's leading mobile data network operator owned by Chinese government-owned company China Mobile.
+- [Ufone](https://careers.ufone.com/Site/content_cb8339cc.html) | Islamabad | Ufone is an Etisalat Group Company that started its operations in January 2001. Since then, it has become a leader in innovation and has established presence in all the major cities, along with comprehensive coverage across all the major towns, villages and tehsil headquarters of Pakistan.
 

@@ -33,6 +33,7 @@ If you have gone through an interview with a technology company which is not men
 - [Airlift](https://rideairlift.com/careers/) | Lahore | Airlift enables users to make premium quality commutes at reliable times, cost-effective prices and along travel-courses across the city. 
 - [Truck It In](https://truckitin.com/careers/) | Truck It In is a tech startup solving inefficiencies for the $25 B+ road freight market by digitizing trucking and logistics for 3 Million+ businesses in Pakistan.
 - [Remotebase](https://apply.workable.com/remotebase/) | Lahore / Remote | Remotebase finds, hires and trains the top 3% tech talent in the world, so you don’t have to. Your team is all set up and ready for you on day 1.
+- [Omni](https://getomni.app) | Islamabad / Hybrid | Omni builds next-generation speech and video technology which helps bridge humans across cultures.
 
 
 ## Game Dev
@@ -94,6 +95,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [GFK Etilize](https://www.etilize.com/) | Karachi, Nürnberg (Germany) | Gfk provides standardized, eCommerce ready product data catalogs containing millions of products representing thousands of brands with clients including Amazon, Walmart, Acer, D&H etc
 - [GharPar](https://www.linkedin.com/company/gharpar/) | Lahore | GharPar is the leading tech-enabled at-home beauty service provider in Lahore, Islamabad and Rawalpindi aiming to disrupt the beauty industry of Pakistan.
 - [GoodCore Software](https://www.goodcoresoft.com) | Karachi, Malaysia, United Kingdom | GoodCore Software helps small businesses and start-ups develop robust, commercial-grade software applications.
+- [Grayhat](https://grayhat.studio) | Islamabad | Grayhat builds products which enhance the digital human experience, and highly focuses on constant innovation.
 - [Ibex](https://www.ibex.co/pakistan/) | Karach, Lahore, Islamabad / Multiple Locations in US| Ibex helps Fortune 500 brands acquire, engage, and retain valuable customers through their CLX technology.
 - [IBM](https://www.ibm.com/pk-en) | Karachi, Lahore, Islamabad / Multiple Locations| IBM is a global technology and innovation company headquartered in Armonk, NY. It is the largest technology and consulting employer in the world, with more than 375,000 employees serving clients in 170 countries. 
 - [Inbox Business Technologies](https://www.inboxbiz.com/) | Islamabad | Inbox Business Technologies is the premier provider of digital services to businesses in Pakistan whose mission is “Providing Agility for the Digital Age”. 

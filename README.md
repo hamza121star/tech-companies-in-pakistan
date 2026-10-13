@@ -67,6 +67,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Khareed](https://khareed.pk/careers) | Lahore, Karachi | Khareed is an Enterprise, cloud-based e-procurement software that leverages AI to automate business purchases
 - [Paitoo.pk](http://paitoo.com.pk/) | Lahore | Paitoo is Pakistan's first crowd sourced food discovery platform, helping users make a decision where to dine through food stories.
 - [Pakwheels](https://pakeventures.simplicant.com/) | Lahore, Karachi | PakWheels is the largest online marketplace for car shoppers and sellers in Pakistan
+- [Pehle Samjho](https://pehlesamjho.com) | Remote | Pehle Samjho is an educational research desk for Pakistan share prices and PSX literacy — company desks, a free Shark Methodology course, and claim evaluation tools. Not a broker and not the Pakistan Stock Exchange.
 - [Sastaticket.pk](https://www.sastaticket.pk/corporate/jobs.aspx) | Karachi | Sastaticket.pk is a one-stop shop for all travel related services. A leading consolidator of travel products, Sastaticket.pk provides reservation facility for domestic and international flights, domestic and international hotels, and holiday packages.
 - [Shahi Sawari](https://shahisawari.pk/views/careers.html) | Lahore | Monthly pick and drop services on cars, rickshaws and vans made affordable with sharing.
 - [Zameen.com](https://www.zameen.com/careers.html) | Lahore |  Zameen is leading property portal based in Pakistan - offering the highest levels of service to property buyers, sellers, landlords and tenants.
